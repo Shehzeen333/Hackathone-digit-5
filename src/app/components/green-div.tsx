@@ -1,6 +1,7 @@
 import Image from "next/image";
 import greenman from "@/app/images/shop-hero-2-png-picture-1.png";
 
+
 export default function GreenDiv(){
     return(
         <div className="w-[1440px] rounded-[5px] absolute bg-[#23856D] mt-[-130px] top-[3200px] border">
