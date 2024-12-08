@@ -1,9 +1,8 @@
 import Image from "next/image";
-import Navbar from "../components/navbar";
-import GreenHeader from "../app/components/green-header";
+import Navbar from "@/app/components/navbar";
+import GreenHeader from "@/app/components/green-header";
 import arrow from "@/app/images/Vector (13).png";
-import cat1 from "@/app/images/card-item-0.png";
-
+import cat1 from "@/app/images/card-item.png";
 import cat2 from "@/app/images/card-item (1).png";
 import cat3 from "@/app/images/card-item (2).png";
 import cat4 from "@/app/images/card-item (3).png";

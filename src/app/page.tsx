@@ -17,8 +17,7 @@ export default function Home(){
       <ProductCard/>
       <GreenDiv/>
       <Whitediv/>
-      <Footer/>
-           
+      <Footer/>   
     </div>
-  )
+  );
 }
