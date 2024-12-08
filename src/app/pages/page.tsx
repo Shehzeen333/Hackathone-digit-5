@@ -5,9 +5,9 @@ import heart from "@/app/images/Vector (15).png";
 import cart from "@/app/images/icn favorite.png";
 import eye from "@/app/images/icn favorite (1).png";
 
-import mainImage from "@/images/single-product-1-cover-2.jpg"; // Replace with your main image
-import image1 from "@/images/single-product-1-thumb-1.jpg"; // Replace with your thumbnail images
-import image2 from "@/images/single-product-1-thumb-2.jpg";
+import mainImage from "@/app/images/single-product-1-cover-2.jpg"; // Replace with your main image
+import image1 from "@/app/images/single-product-1-thumb-1.jpg"; // Replace with your thumbnail images
+import image2 from "@/app/images/single-product-1-thumb-2.jpg";
 
 export default function Pages() {
   return (
